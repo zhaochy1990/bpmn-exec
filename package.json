@@ -1,0 +1,23 @@
+{
+    "name": "bpmn-exec",
+    "version": "0.0.1",
+    "description": "bpmn2 execution engine",
+    "main": "index.js",
+    "scripts": {
+        "test": "npm test"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/zhaochy1990/bpmn-exec.git"
+    },
+    "keywords": [
+        "bpmn2",
+        "executor"
+    ],
+    "author": "zhaochy",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/zhaochy1990/bpmn-exec/issues"
+    },
+    "homepage": "https://github.com/zhaochy1990/bpmn-exec#readme"
+}
