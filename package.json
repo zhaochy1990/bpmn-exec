@@ -1,6 +1,6 @@
 {
     "name": "bpmn-exec",
-    "version": "0.0.1",
+    "version": "0.0.1-rc0",
     "description": "bpmn2 execution engine",
     "main": "index.js",
     "scripts": {
